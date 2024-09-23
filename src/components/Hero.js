@@ -13,7 +13,7 @@ const Hero = () => {
                 {/* Left Side */}
                 <div className='left'>
                     <p>Securely manage your crypto, anytime,anywhere</p>
-                    <h1>Invest in Crypto   curreny with  us</h1>
+                    <h1>Invest in Crypto   currency with  us</h1>
                     <p>Buy, Sell, and store hundreds of cryptocurrencies</p>
                     <div className='input-container'>
                         <input type='email' placeholder='Enter your email' />
